@@ -1,0 +1,289 @@
+
+
+.typing h3::after{
+  content: "|";
+  animation: typing 10s steps(2, end) infinite;
+}
+
+@keyframes typing {
+  0% {
+    content: "D|";
+  }
+  1% {
+    content: "De|";
+  }
+  2% {
+    content: "Des|";
+  }
+  3% {
+    content: "Desi|";
+  }
+  4% {
+    content: "Desig|";
+  }
+  5% {
+    content: "Design|";
+  }
+  6% {
+    content: "Designe|";
+  }
+  7% {
+    content: "Designer|";
+  }
+  8% {
+    content: "Designer |";
+  }
+  9% {
+    content: "Designer|";
+  }
+  10% {
+    content: "Designe|";
+  }
+  20% {
+    content: "Design|";
+  }
+  21% {
+    content: "Desig|";
+  }
+  22% {
+    content: "Desi|";
+  }
+  23% {
+    content: "Des|";
+  }
+  24% {
+    content: "De|";
+  }
+  25% {
+    content: "D|";
+  }
+  26% {
+    content: "|";
+  }
+  27% {
+    content: "D|";
+  }
+  28% {
+    content: "De|";
+  }
+  29% {
+    content: "Dev|";
+  }
+  30% {
+    content: "Deve|";
+  }
+  31% {
+    content: "Devel|";
+  }
+  32% {
+    content: "Develo|";
+  }
+  33% {
+    content: "Develop|";
+  }
+  34% {
+    content: "Develope|";
+  }
+  35% {
+    content: "Developer|";
+  }
+  36% {
+    content: "Developer |";
+  }
+  37% {
+    content: "Developer|";
+  }
+  38% {
+    content: "Develope|";
+  }
+  39% {
+    content: "Develop|";
+  }
+  40% {
+    content: "Develo|";
+  }
+  41% {
+    content: "Devel|";
+  }
+  42% {
+    content: "Deve|";
+  }
+  43% {
+    content: "Dev|";
+  }
+  44% {
+    content: "De|";
+  }
+  45% {
+    content: "D|";
+  }
+  46% {
+    content: "|";
+  }
+  47% {
+    content: "D|";
+  }
+  48% {
+    content: "De|";
+  }
+  49% {
+    content: "Dev|";
+  }
+  50% {
+    content: "Deve|";
+  }
+  51% {
+    content: "Devel|";
+  }
+  52% {
+    content: "Develo|";
+  }
+  53% {
+    content: "Develop|";
+  }
+  54% {
+    content: "Develope|";
+  }
+  55% {
+    content: "Developer|";
+  }
+  56% {
+    content: "Developer |";
+  }
+  57% {
+    content: "Developer|";
+  }
+  58% {
+    content: "Develope|";
+  }
+  59% {
+    content: "Develop|";
+  }
+  60% {
+    content: "Develo|";
+  }
+  61% {
+    content: "Devel|";
+  }
+  62% {
+    content: "Deve|";
+  }
+  63% {
+    content: "Dev|";
+  }
+  64% {
+    content: "De|";
+  }
+  65% {
+    content: "D|";
+  }
+  66% {
+    content: "|";
+  }
+  67% {
+    content: "D|";
+  }
+  68% {
+    content: "De|";
+  }
+  69% {
+    content: "Dev|";
+  }
+  70% {
+    content: "Deve|";
+  }
+  71% {
+    content: "Devel|";
+  }
+  72% {
+    content: "Develo|";
+  }
+  73% {
+    content: "Develop|";
+  }
+  74% {
+    content: "Develope|";
+  }
+  75% {
+    content: "Developer|";
+  }
+  76% {
+    content: "Developer |";
+  }
+  77% {
+    content: "Developer|";
+  }
+  78% {
+    content: "Develope|";
+  }
+  79% {
+    content: "Develop|";
+  }
+  80% {
+    content: "Develo|";
+  }
+  81% {
+    content: "Devel|";
+  }
+  82% {
+    content: "Deve|";
+  }
+  83% {
+    content: "Dev|";
+  }
+  84% {
+    content: "De|";
+  }
+  85% {
+    content: "D|";
+  }
+  86% {
+    content: "|";
+  }
+  87% {
+    content: "D|";
+  }
+  88% {
+    content: "De|";
+  }
+  89% {
+    content: "Dev|";
+  }
+  90% {
+    content: "Deve|";
+  }
+  91% {
+    content: "Devel|";
+  }
+  92% {
+    content: "Develo|";
+  }
+  93% {
+    content: "Develop|";
+  }
+  94% {
+    content: "Develope|";
+  }
+  95% {
+    content: "Developer|";
+  }
+  96% {
+    content: "Developer |";
+  }
+  97% {
+    content: "Developer|";
+  }
+  98% {
+    content: "Develope|";
+  }
+  99% {
+    content: "Develop|";
+  }
+  100% {
+    content: "Develo|";
+  }
+}
+
+
+
+

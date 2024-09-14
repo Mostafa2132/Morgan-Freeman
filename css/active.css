@@ -1,0 +1,15 @@
+
+
+
+body:not(body:has(:target)) li a[href="#Home"]::before,
+body:has(.content:target) li a[href="#Home"]::before,
+body:has(.about:target) li a[href="#About"]::before,
+body:has(.Services:target) li a[href="#Services"]::before,
+body:has(.Portfolio:target) li a[href="#Work"]::before,
+body:has(.blog:target) li a[href="#Blog"]::before,
+body:has(.footer:target) li a[href="#footer"]::before
+
+{ 
+  width: 100%;
+
+}
